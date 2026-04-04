@@ -12,7 +12,7 @@ I'm a **2nd Year Computer Science student** at **IIT Delhi – Abu Dhabi**, pass
 
 - 🎓 **B.Tech in Computer Science** @ IIT Delhi – Abu Dhabi *(2024 – 2028)*
 - 💼 **FinTech Club Founding Head** @ IIT Delhi – Abu Dhabi
-- 🏦 **Ex Finance Intern** @ Valura.ai *(TopGun Internship Program)*
+- 🏦 **Ex Finance Intern** @ Valura.ai 
 - 🔬 **Ex Summer Intern** @ National University of Singapore *(Applied ML with Gen AI & Big Data Analytics)*
 - 🌍 Based in **Abu Dhabi, UAE**
 - 📫 Reach me at: **vsumant64@gmail.com**
