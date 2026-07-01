@@ -18,7 +18,7 @@ I'm a **2nd Year Computer Science student** at **IIT Delhi – Abu Dhabi**, pass
 - 🌍 Based in **Birmingham, UK** (internship) / Abu Dhabi, UAE
 - 📫 Reach me at: vsumant64@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sumant-varanasi/)
-- ⚔️ Codeforces: **1500+** rating
+- ⚔️ Codeforces: **1600+** rating
 
 ---
 
